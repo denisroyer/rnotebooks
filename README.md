@@ -1,3 +1,12 @@
+
+######        #    #                                            
+#     #       #   #  ###### #    # #    # ##### #    # #  ####  
+#     #       #  #   #      ##   # ##   #   #   ##   # # #      
+######  ##### ###    #####  # #  # # #  #   #   # #  # #  ####  
+#   #         #  #   #      #  # # #  # #   #   #  # # #      # 
+#    #        #   #  #      #   ## #   ##   #   #   ## # #    # 
+#     #       #    # ###### #    # #    #   #   #    # #  ####  
+                                                               
 # Übungen R-Kenntnis
 
 Dieses Repository enthält das Übungsmaterial für die Vorlesung Business Intelligence.
