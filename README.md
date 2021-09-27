@@ -1,3 +1,5 @@
 # Übungen R-Kenntnis
 
-Dieses Arbeitspaket enthält das Übungsmaterial für die Vorlesung Business Intelligence.
+Dieses Repository enthält das Übungsmaterial für die Vorlesung Business Intelligence.
+
+Sie finden die zu den Übungen gehörenden Materialien jeweils in den Unterverzeichnissen.
