@@ -19,3 +19,4 @@ Enthaltene Übungen:
 
 * Übung 1 und 2: Basis Datenstrukturen in R
 * Übung 3: Datenimporte und Datenmanipulation
+* Übung 4: Datenaufbereitung mit dplyr¶
