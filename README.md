@@ -17,6 +17,6 @@ Die neuste Version der Unterlagen erhalten Sie über den folgenden Link: <https:
 
 Enthaltene Übungen:
 
-* Übung 1 und 2: Basis Datenstrukturen in R
-* Übung 3: Datenimporte und Datenmanipulation
+* Übung 1 und 2: Basis Datenstrukturen in R (+LSG)
+* Übung 3: Datenimporte und Datenmanipulation (+LSG)
 * Übung 4: Datenaufbereitung mit dplyr¶
