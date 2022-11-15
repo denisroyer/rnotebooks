@@ -1,5 +1,6 @@
 # rnotebooks
 R-Kenntnis Workshop Material (Ostfalia - Fakultät W)
+(c) 2022 Denis Royer
 
 # Infos
 
