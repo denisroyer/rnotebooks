@@ -1,4 +1,4 @@
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+<a href="https://ostfalia.de/w" target="_blank"><img src="https://img.shields.io/badge/Ostfalia-Fakultät%20W-blue?style=for-the-badge&logo=googlescholar&logoColor=white"/></a> <img src="https://img.shields.io/badge/Semester-WiSe2022%2F23-green?style=for-the-badge"/> <img src="https://img.shields.io/badge/Copyright-2020--22-orange?style=for-the-badge"/> <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank"><img src="https://img.shields.io/badge/License-by--nc--sa-red?style=for-the-badge"/></a> 
 
 # rnotebooks
 R-Kenntnis Workshop Material (Ostfalia - Fakultät W)
