@@ -1,8 +1,8 @@
-<a href="https://ostfalia.de/w" target="_blank"><img src="https://img.shields.io/badge/Ostfalia-Fakultät%20W-blue?style=for-the-badge&logo=googlescholar&logoColor=white"/></a> <img src="https://img.shields.io/badge/Semester-WiSe2022%2F23-green?style=for-the-badge"/> <img src="https://img.shields.io/badge/Copyright-2020--22-orange?style=for-the-badge"/> <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank"><img src="https://img.shields.io/badge/License-by--nc--sa-red?style=for-the-badge"/></a> 
+<a href="https://ostfalia.de/w" target="_blank"><img src="https://img.shields.io/badge/Ostfalia-Fakultät%20W-blue?style=for-the-badge&logo=googlescholar&logoColor=white"/></a> <img src="https://img.shields.io/badge/Semester-WiSe2023%2F24-green?style=for-the-badge"/> <img src="https://img.shields.io/badge/Copyright-2020--24-orange?style=for-the-badge"/> <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank"><img src="https://img.shields.io/badge/License-by--nc--sa-red?style=for-the-badge"/></a> 
 
 # rnotebooks
 R-Kenntnis Workshop Material (Ostfalia - Fakultät W)
-(c) 2022 Denis Royer
+(c) 2023 Denis Royer
 
 # Infos
 
